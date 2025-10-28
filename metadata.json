@@ -1,0 +1,5 @@
+{
+  "name": "Juego de la crema dental",
+  "description": "An interactive game for kids where they squeeze a virtual toothpaste tube. With each squeeze, toothpaste splatters on a wall, and the tube empties. A fun lesson in cause and effect, and a little bit about things you can't undo!",
+  "requestFramePermissions": []
+}
